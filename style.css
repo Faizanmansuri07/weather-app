@@ -55,9 +55,6 @@ button:hover{
     color: white;
     
 }
-.digree{
-    margin-top: 10px;
-}
 .info{
     display: none;
 }
@@ -133,5 +130,8 @@ button:hover{
   button{
     width: 25%;
   }
-
+  .humanity img{
+    width : 25px;
+    margin-right: 0px;
+}
 }
