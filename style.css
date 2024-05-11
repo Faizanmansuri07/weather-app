@@ -47,7 +47,7 @@ button:hover{
 }
 .images img{
     width : 200px;
-    transition: all  0.5s ease-in-out  2ms;
+    transition: max-height 0.5s ease-in-out  2ms;
 }
 .digree p{
     font-size: 32px;
@@ -57,7 +57,7 @@ button:hover{
 }
 .info{
     display: none;
-    transition : max-height 1s;
+    transition : max-height 3s;
 }
 .humanity img{
     width : 35px;
